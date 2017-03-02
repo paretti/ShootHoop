@@ -48,6 +48,13 @@
      <Compile Include="Assets\Scripts\BallLauncher.cs" />
      <Compile Include="Assets\Scripts\BallSpawner.cs" />
      <Compile Include="Assets\Scripts\CameraRotate.cs" />
+     <Compile Include="Assets\Scripts\DetectScoring.cs" />
+     <Compile Include="Assets\Scripts\LevelManager.cs" />
+     <Compile Include="Assets\Scripts\ScoreDisplay.cs" />
+     <Compile Include="Assets\Scripts\ScoreKeeper.cs" />
+     <None Include="Assets\SkyboxPlus\Gradients.shader" />
+     <None Include="Assets\SkyboxPlus\Cubemap.shader" />
+     <None Include="Assets\SkyboxPlus\Hemisphere.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
